@@ -1,17 +1,15 @@
 @font-face {
-    font-family: 'Cascadia Mono';
-    src: url('fonts/CascadiaMono-Regular.woff2') format('woff2'),
-        url('fonts/CascadiaMono-Regular.woff') format('woff'),
-        url('fonts/CascadiaMono-Regular.ttf') format('truetype');
+    font-family: 'Cascadia Code';
+    src: url('CascadiaCode-Regular.woff2') format('woff2'),
+        url('CascadiaCode-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
-
 body{
     margin: 0;
     text-align: center;
-    font-family: 'Cascadia Mono';
+    font-family: 'Cascadia Code';
 }
 h1 {
     width: 10%;
