@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'Cascadia Mono';
+    src: url('fonts/CascadiaMono-Regular.woff2') format('woff2'),
+        url('fonts/CascadiaMono-Regular.woff') format('woff'),
+        url('fonts/CascadiaMono-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+body{
+    margin: 0;
+    text-align: center;
+}
+h1 {
+    width: 10%;
+    margin: auto;
+}
+.top-container {
+    background-color:white;
+    position: relative;
+}
+.middle-container {
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
+.bottom-container {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+}
+.bottom-cloud {
+    position: relative;
+    margin-left: 0px;
+    top: 180px;
+    right: 145px;
+}
+.top-cloud  {
+    position: relative;
+    left: 150px;
+}
+#pro {
+    font-style: italic;
+}
