@@ -13,6 +13,7 @@ body{
 h1 {
     width: 10%;
     margin: auto;
+    text-align: center;
 }
 .top-container {
     background-color:white;
