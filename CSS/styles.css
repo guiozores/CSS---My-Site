@@ -6,7 +6,7 @@
     font-display: swap;
 }
 body{
-    color: #405514E;
+    color:black;
     margin: 0;
     text-align: center;
     font-family: 'Merriweather', serif;
@@ -50,6 +50,7 @@ h3 {
     background-color: #E4F9F5;
     position: relative;
     padding-top: 100px;
+    height: 100vh;
 }
 .middle-container {
     margin: 100px 0;
